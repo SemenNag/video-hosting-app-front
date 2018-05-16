@@ -1,0 +1,22 @@
+.soap {
+  margin-left: 10px;
+  margin-top: 10px;
+  display: flex;
+  align-items: flex-start;
+}
+.soap a {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+  align-items: center;
+  justify-content: center;
+  width: 180px;
+  text-align: center;
+}
+
+.soap i {
+  color: #d9a3a3;
+  font-size: 3.2em;
+  margin-bottom: 10px;
+}
